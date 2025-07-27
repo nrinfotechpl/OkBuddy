@@ -1,1 +1,4 @@
-A working test GitHub repo with sample APK and version.json?
+{
+  "versionCode": 1,
+  "apkUrl": "https://github.com/nrinfotechpl/OkBuddy/raw/refs/heads/main/app-release.apk"
+}
