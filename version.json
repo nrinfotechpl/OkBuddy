@@ -1,6 +1,6 @@
 {
   "versionCode": 3,
-  "apkUrl": "https://github.com/nrinfotechpl/OkBuddy/raw/refs/heads/main/app-release.apk"
+  "apkUrl": "https://github.com/nrinfotechpl/OkBuddy/raw/refs/heads/main/app-release.apk",
   "message": "New Features:\n• Faster EMI calculation\n• WhatsApp sender improved\n• Bug fixes and performance improvements"
 
 }
